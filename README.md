@@ -14,7 +14,7 @@ python room_finder.py [-r <regex>]
 
 ## Example:
 
-Let's say someone tells you "My Jackbox room code begins with the letters QW."
+Let's say you're watching a Twitch streamer and they say "My Jackbox room code begins with the letters QW."
 
 You can find all rooms that begin with `QW` by running
 

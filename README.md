@@ -24,4 +24,6 @@ python room_finder.py -r QW..
 
 ## Credits:
 
-This script is just a specialized version of [this other script](https://github.com/JLDevOps/Jackbox.tv-Room-Finder).
+- [JLDevOps](https://github.com/JLDevOps/) for the [original version](https://github.com/JLDevOps/Jackbox.tv-Room-Finder) of this script.
+
+- [Pokelawls](https://www.twitch.tv/pokelawls) for the inspiration.

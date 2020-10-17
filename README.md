@@ -21,3 +21,7 @@ You can find all rooms that begin with `QW` by running
 ```
 python room_finder.py -r QW..
 ```
+
+## Credits:
+
+This script is just a specialized version of [this other script](https://github.com/JLDevOps/Jackbox.tv-Room-Finder).
